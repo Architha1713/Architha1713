@@ -1,48 +1,51 @@
-# Hi, I’m Architha 👋
+# Architha B C
 
-AI & Machine Learning student passionate about building intelligent and visually engaging digital experiences.
+**AI/ML Engineer · Generative AI Developer · Frontend Developer**
 
----
-
-## Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- UI/UX Design
-- Product Development
-- Frontend Experiences
-- AI-powered Applications
-- Human-Centered Technology
+AI & Machine Learning undergraduate at The Oxford College of Engineering, Bengaluru (CGPA: 9.1/10).
+I build AI-powered products end-to-end — from prompt engineering and API integration to frontend UI and deployment.
 
 ---
 
-## Current Focus
+## What I'm Building
 
-- Building AI-focused digital products
-- Exploring Agentic AI & LLM applications
-- Improving frontend and user experiences
-- Developing modern startup-style projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Katha Connect](https://github.com/Architha1713/katha-connect) | Volunteer–NGO matching platform · Top 5 of 200+ teams @ Make for Bengaluru | React · TypeScript · Supabase |
+| [Mindframe](https://github.com/Architha1713/mindframe) | AI journaling platform with Gemini-powered mood analysis & weekly trend tracking | React · TypeScript · Supabase · Gemini API |
+| [Harmony Spaces AI](https://github.com/Architha1713/harmony-spaces) | Room visualization platform with 8 design styles and AI image generation | React · TypeScript · Tailwind CSS |
 
 ---
 
 ## Tech Stack
 
-Python • Java • TypeScript • React • SQL • Tailwind CSS • Supabase
+```
+Languages     Python · Java · TypeScript · SQL
+Frontend      React · HTML/CSS · Tailwind CSS
+AI & GenAI    Gemini API · OpenAI API · Prompt Engineering
+Cloud/Infra   Supabase · Google Colab · AWS (learning)
+Tools         Git · GitHub · Streamlit · Canva
+Learning      LangChain · Vector Databases · RAG Pipelines
+```
 
 ---
 
-## Projects
+## Highlights
 
-- Harmony Spaces AI
-- Katha Connect
-- Calorie Scan Smart
+- 🏆 **Top 5 of 200+ teams** — Make for Bengaluru Hackathon (RV Institute of Technology)
+- 🤖 **Gemini API integration** — real-time mood classification in Mindframe
+- 📊 **Data Analysis Internship** — Princeton programme, Nov 2024 – Jan 2025
+- 🎓 **CGPA 9.1/10** — B.E. AI & ML, The Oxford College of Engineering
 
 ---
 
-## Connect With Me
+## Currently Learning
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Architha713)
+`LangChain` · `Vector Databases` · `RAG Pipelines` · `AWS` · `Agentic AI Systems`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 ---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/architha-b-c)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:architha1105@gmail.com)
