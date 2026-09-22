@@ -114,7 +114,45 @@ Currently focused on:
 
 ---
 
+# Research Publications
+
+<div align="center">
+
+| Paper | Venue | Role | Status |
+| ----- | ----- | ---- | ------ |
+| Self-Supervised Neural Aberration Correction for Deep-Tissue Two-Photon Imaging | Conference submission — 2026 | **Lead Author** | Submitted |
+| Anthropomorphism in AI: Human–AI Interaction & Ethical Design Framework | ICETSE 2026 (Scopus-indexed) | **Lead Author** | **Accepted ✅** |
+
+</div>
+
 # Featured Projects
+
+<details>
+<summary><b>NEURAL ABERRATION CORRECTION — Deep Learning for Biomedical Imaging 📄 Research</b></summary>
+
+### Overview
+
+Self-supervised deep learning pipeline to correct optical aberrations in two-photon microscopy images — without adaptive-optics hardware and without paired ground-truth data. Published as a research paper submitted to conference 2026.
+
+| Category    | Details                                                        |
+| ----------- | -------------------------------------------------------------- |
+| Stack       | PyTorch, Python, U-Net, aotools, scikit-image, Gradio          |
+| Dataset     | BioSR (F-actin, Microtubules, CCPs) + BBBC005 holdout         |
+| PSNR Gain   | +2.00 dB (24.51 → 26.51 dB)                                   |
+| SSIM Gain   | +0.079 (0.629 → 0.707)                                        |
+| Impact      | Hardware-free aberration correction for labs with no AO access |
+| Repository  | [GitHub ↗](https://github.com/Architha1713/microscopy-aberration-correction) |
+
+### Highlights
+
+* Physics-based degradation model using Zernike aberration coefficients and PSF convolution
+* Residual U-Net with combined L1 + SSIM + edge loss for sharpness-preserving correction
+* Test-time augmentation (TTA) for consistent inference improvement
+* 8 experimental runs across architecture and dataset variations
+* Interactive Gradio demo app for real-time inference
+* Lead author — submitted to international conference 2026
+
+</details>
 
 <details>
 <summary><b>MINDFRAME — AI Mood Journaling Platform</b></summary>
@@ -241,13 +279,15 @@ Managed logistics and participant coordination for large-scale technical events.
 
 <div align="center">
 
-| Recognition          | Details                                        |
-| -------------------- | ---------------------------------------------- |
-| Top 5 Finalist       | Make for Bengaluru Hackathon (200+ Teams)      |
-| Top 7 Team           | Smart India Hackathon Intra-College Round      |
-| CGPA 9.1/10          | B.E Artificial Intelligence & Machine Learning |
-| Princeton Internship | Independent ML & Data Analytics Project        |
-| Product Builder      | Multiple AI-Powered Full Stack Applications    |
+| Recognition              | Details                                                        |
+| ------------------------ | -------------------------------------------------------------- |
+| Lead Research Author     | ICETSE 2026 (Scopus-indexed) — Anthropomorphism in AI          |
+| Lead Research Author     | Conference submission 2026 — Neural Aberration Correction      |
+| Top 5 Finalist           | Make for Bengaluru Hackathon (200+ Teams)                      |
+| Top 7 Team               | Smart India Hackathon Intra-College Round                      |
+| CGPA 9.1/10              | B.E Artificial Intelligence & Machine Learning                 |
+| Princeton Internship     | Independent ML & Data Analytics Project                        |
+| Product Builder          | Multiple AI-Powered Full Stack Applications                    |
 
 </div>
 
