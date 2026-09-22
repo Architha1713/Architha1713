@@ -367,26 +367,6 @@ Managed logistics and participant coordination for large-scale technical events.
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Architha1713&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Architha1713&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # Contribution Snake
 
 <div align="center">
@@ -441,9 +421,6 @@ Open_To:
 
 🔗 https://github.com/Architha1713
 
-### Portfolio
-
-🔗 https://your-portfolio.com
 
 </div>
 
