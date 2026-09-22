@@ -305,18 +305,6 @@ Managed logistics and participant coordination for large-scale technical events.
 
 ![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge)
 
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Planning-C74634?style=for-the-badge)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Continuous_Learning-7C3AED?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking_Fundamentals-1BA0D7?style=for-the-badge)
-
 ### Udemy
 
 ![](https://img.shields.io/badge/Generative_AI_Foundations-Udemy-A435F0?style=for-the-badge)
@@ -326,30 +314,6 @@ Managed logistics and participant coordination for large-scale technical events.
 ![](https://img.shields.io/badge/Leadership-Udemy-A435F0?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Project_Management-Udemy-A435F0?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Skills_Verified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
